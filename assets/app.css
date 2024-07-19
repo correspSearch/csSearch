@@ -1,0 +1,282 @@
+/* might be to deleted for production */
+
+html, body {
+  height: 100%;
+}
+
+/* */
+
+
+.full-width {
+  width: 100%;
+}
+
+.no-min-height {
+  min-height: 0px;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-group-prepend .custom-select {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.input-group-append .custom-select {
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+
+.highlighted-text em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+#autocomplete {
+  border-radius: 0.245rem;
+  border: 1px solid #ced4da;
+  margin-top: 0.2rem;
+  overflow-y: auto;
+  max-height: 10rem;
+  box-shadow: inset 2px 2px 10px -5px #333;
+  background-color: #fff;
+}
+
+#autocomplete .list-group-item {
+  border: 0;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  padding-left: 1rem;
+  cursor: pointer;
+  border-radius: 0;
+  background-color: transparent;
+}
+
+#autocomplete .list-group-item:hover {
+  background-color: #ced4da;
+}
+
+.highlighted {
+  background-color: #ced4da !important;
+}
+
+#autocomplete .list-group-item:first {
+  padding-top: 0.2rem;
+}
+#autocomplete .list-group-item:last-child {
+  padding-bottom: 0.2rem;
+}
+
+.autocomplete {
+  border-radius: 0.245rem;
+  border: 1px solid #ced4da;
+  background-color: #fff;
+  margin-top: 0.2rem;
+  overflow-y: auto;
+  max-height: 10rem;
+  box-shadow: inset 2px 2px 10px -5px #333;
+}
+
+.autocomplete .list-group-item {
+  border: 0;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  padding-left: 1rem;
+  cursor: pointer;
+  border-radius: 0;
+  background-color: transparent;
+}
+
+.autocomplete .list-group-item:hover {
+  background-color: #ced4da;
+}
+
+.autocomplete .list-group-item:first {
+  padding-top: 0.2rem;
+}
+.autocomplete .list-group-item:last-child {
+  padding-bottom: 0.2rem;
+}
+
+.badge svg {
+  cursor: pointer;
+}
+
+.facets {
+  /* TO BE ADJUSTED FOR LIFE VERSION */
+  /* position: absolute; */
+  margin: auto;
+  right: 0;
+  min-width: 250px;
+}
+
+.facets .list-group-item {
+  border: 0px;
+  padding: 0.2em 1em !important;
+  font-size: 0.8rem;
+  font-family: 'PTSans';
+}
+
+.result-pagination ul {
+  margin-bottom: 0px !important;
+}
+
+.facetList {
+  border-top: 1px solid rgba(0, 0, 0, 0.125) !important;
+}
+
+.facets .showMoreFacets {
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 1em 0em;
+}
+
+.facets h3 {
+  margin-top: 1rem;
+  color: #000;
+}
+
+.facets h3 a, .facets h4 a {
+  color: #4983a3;
+}
+
+.facetActive {
+  background-color: #f1f1f1;
+  padding-left: 0.5em !important;
+  font-weight: bold;
+}
+
+.facets svg {
+  cursor: pointer;
+  color: #4983a3;
+}
+
+.sorting {
+  color: #000 !important;
+  opacity: 0.5;
+}
+
+.activeSorting {
+  color: #4983a3;
+}
+
+.facets h4 {
+  margin-top: 0.5em;
+  font-size: 1.2em;
+  color: #000;
+}
+
+.sort {
+  text-align: left;
+}
+
+.sortResults {
+  float: right;
+  font-size: 1.2em;
+}
+
+#collapseExtendedSearch {
+  clear:both;
+}
+
+#collapseExtendedSearch svg {
+  font-size: 1.2em;
+  margin-top: 0.4em;
+  color: #4983a3;
+  cursor: pointer;
+}
+
+.facet-icons {
+  color: #c1c1c1 !important;
+}
+.facet-icons:hover {
+  color: #4983a3 !important;
+}
+
+.result:hover {
+  border-color: #4983a3;
+}
+
+.disabled {
+  color: #999 !important;
+}
+.disabled a, .disabled h4, .disabled h3, .disabled svg  {
+  cursor: default;
+  color: #c1c1c1 !important;
+}
+
+.cs-date-as-text {
+  color: #999;
+}
+
+.cs-result-icons {
+  color: #999;
+}
+
+.cs-map-container {
+  height: 100%;
+  border-right: 1px solid #ccc;
+}
+
+.cs-map-content {
+  background-color: #EAEAEA;
+}
+
+.cs-map-draw-instructions, .cs-map-histogis-instructions, .cs-map-cal-instructions {
+  font-size: 2em;
+  margin: 0.5em;
+  float: left;
+  color: #888;
+}
+
+.cs-map-btn-bar button {
+  width: 40px;
+}
+
+ul.b-pagination {
+  margin-bottom: 0px;
+}
+
+.page-item.active .page-link {
+  background-color: #205F82 !important;
+  border-color: #205F82 !important;
+}
+
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before{
+  background-color: #205F82 !important;
+}
+
+.card-body .cs-button {
+  color: #fff !important;
+}
+
+.cs-results-additional-info {
+  background-color: #f6f6f6;
+  border: 1px solid #c0c0c0;
+  font-size: 0.7em;
+  font-family: 'PTSans';
+  color: gray;
+}
+
+.cs-results-additional-info a {
+    color: gray !important;
+}
+
+/*
+
+Alternatives Layout für Suchergebnisse:
+card-body
+    padding: 0 !important;
+col-1
+    padding: 1.35rem !important;
+    border-right: 1px solid #ccc;
+    background-color: #f8f8f8;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+col-2
+    padding: 1.35rem !important;
+
+ */

@@ -1,0 +1,765 @@
+<labels default="de">
+    <language xml:id="de">
+        <label for="page.h1">correspSearch</label>
+        <label for="page.title.start">correspSearch - Briefeditionen durchsuchen und vernetzen</label>
+        <label for="page.title.news">correspSearch - Aktuelle Nachrichten aus dem Projekt</label>
+        <label for="page.title.ueber">correspSearch - Über diesen Webservice</label>
+        <label for="page.title.videos">correspSearch - Erklär-Videos</label>
+        <label for="page.title.team">correspSearch - Team</label>
+        <label for="page.title.changelog">correspSearch - Changelog</label>
+        <label for="page.title.zitierhinweise">correspSearch - Zitierempfehlungen</label>
+        <label for="page.title.literatur">correspSearch - Weiterführende Literatur</label>
+        <label for="page.title.daten">correspSearch - Datengrundlage</label>
+        <label for="page.title.api">correspSearch - API</label>
+        <label for="page.title.mitmachen">correspSearch - Mitmachen</label>
+        <label for="page.title.cmif-check">correspSearch - CMIF Check</label>
+        <label for="page.title.cmif-preview">correspSearch - CMIF Preview</label>
+        <label for="page.title.dokumentation">correspSearch - Correspondence Metadata
+            Interchange-Format (CMI)</label>
+        <label for="page.title.anleitung">correspSearch - Mitmachen -
+            Schritt-für-Schritt-Anleitung</label>
+        <label for="page.title.suche">correspSearch - Suche</label>
+        <label for="page.title.karte">correspSearch - Kartensuche</label>
+        <label for="page.title.FAQ">correspSearch - Häufig gestellte Fragen</label>
+        <label for="page.title.impressum">correspSearch - Impressum</label>
+        <label for="page.title.beta">correspSearch - Hinweise zum Testbetrieb</label>
+        <label for="page.title.cmif-creator">CMIF Creator - Digitale Briefverzeichnisse
+            erstellen</label>
+        <label for="page.title.salute">quoteSalute - Inspirierende Grußformeln für Ihre
+            Korrespondenz</label>
+        <label for="page.title.salute.doc">quoteSalute - Dokumentation</label>
+        <label for="page.meta.cmif-creator">Mit dem CMIF Creator erstellen Sie schnell und einfach
+            ein digitales Briefverzeichnis Ihrer Briefedition. </label>
+        <label for="nav.home">Start</label>
+        <label for="nav.search">Suche</label>
+        <label for="nav.mapsearch">Kartensuche</label>
+        <label for="nav.data">Daten</label>
+        <label for="nav.about">Über correspSearch</label>
+        <label for="nav.about.main">Über diesen Webservice</label>
+        <label for="nav.about.videos">Erklärvideos</label>
+        <label for="nav.about.citation">Zitierempfehlungen</label>
+        <label for="nav.about.further-reading">Weiterführende Literatur</label>
+        <label for="nav.api">API</label>
+        <label for="nav.show">Anzeigen</label>
+        <label for="recentlyAdded">Neu im Datenbestand</label>
+        <label for="nav.participate">Mitmachen</label>
+        <label for="nav.participate.manual">Anleitung</label>
+        <label for="nav.participate.documentation">Dokumentation</label>
+        <label for="nav.quotesalute.search">Grußformeln suchen</label>
+        <label for="nav.quotesalute.doc">Dokumentation</label>
+        <label for="toc">Inhaltsverzeichnis</label>
+        <label for="search.header">correspSearch - Suchergebnis</label>
+        <label for="form.correspondents">Briefpartner</label>
+        <label for="form.role">Rolle</label>
+        <label for="form.allPersons">Alle Personen</label>
+        <label for="form.choosePerson">Person wählen</label>
+        <label for="form.senderAndAddressee">Absender oder Empfänger</label>
+        <label for="form.sender">Nur als Absender</label>
+        <label for="form.addressee">Nur als Empfänger</label>
+        <label for="form.addPerson">Korrespondent ergänzen</label>
+        <label for="form.removePerson">Korrespondent entfernen</label>
+        <label for="form.startdate">Startdatum</label>
+        <label for="form.enddate">Enddatum</label>
+        <label for="form.insertDate">Datum eingeben</label>
+        <label for="form.date.input.placeholder">z.B. JJJJ-MM-TT, 1. Januar 1800 - 31. Dezember 1802</label>
+        <label for="form.date.input.placeholder2">ODER z.B. JJJJ-MM-TT, 1. Januar 1800 - 31. Dezember 1802</label><label for="form.places">Ort</label>
+        <label for="search.cmif">CMIF-Verzeichnis</label>
+        <label for="form.places.all">Alle Schreiborte</label>
+        <label for="form.placeRole">Funktion des Ortes</label>
+        <label for="form.placeRole.place">Empfangs- oder Sendeort</label>
+        <label for="form.placeRole.placeSender">Sendeort</label>
+        <label for="form.placeRole.placeAddressee">Empfangsort</label>
+        <label for="form.availability">Verfügbarkeit</label>
+        <label for="form.availability.all">alle</label>
+        <label for="form.availability.online">nur online</label>
+        <label for="form.availability.print">nur gedruckt</label>
+        <label for="form.availability.hybrid">online und gedruckt</label>
+        <label for="form.dataset.PDB18">PDB18</label>
+        <label for="form.dataset.academyProgram">Akademienprogramm</label>
+        <label for="form.dataset.norkorr">NorKorr - Norwegische Korrespondenzen</label>
+        <label for="form.dataset.all">Alle</label>
+        <label for="form.moreOptions">Weitere Optionen</label>
+        <label for="form.cmiFiles">Briefverzeichnis</label>
+        <label for="form.cmiFiles.all">Alle Verzeichnisse</label>
+        <label for="form.publications">Edition / Publikation</label>
+        <label for="form.publications.all">Alle Editionen und Publikationen</label>
+        <label for="form.joinedResult">Mehrere Editionen desselben Briefes basierend auf
+            Kalliope-IDs kenntlich machen (experimentell).</label>
+        <label for="form.search">Briefe suchen</label>
+        <label for="form.reset">Zurücksetzen</label>
+        <label for="resultCount0">Keine Treffer</label>
+        <label for="resultCount1"> Treffern in 1 Publikation</label>
+        <label for="resultCount2"> Treffern in </label>
+        <label for="resultCount3"> Publikationen</label>
+        <label for="resultCountOf"> von </label>
+        <label for="result.download">Suchergebnis herunterladen (beta)</label>
+        <label for="result.download.tooltip">Das Suchergebnis wird als CSV-Tabelle heruntergeladen,
+            die in verschiedenen Programmen geöffnet werden kann, z.B. Microsoft Excel.</label>
+        <label for="result.joined.tooltip">Diese Briefe sind als identisch gekennzeichnet.</label>
+        <label for="material.abstract">Abstrakt</label>
+        <label for="selectionHint">Bitte wählen Sie oben eine Person aus (oder "Alle Personen") und
+            ggf. weitere Parameter.</label>
+        <label for="monthNames">Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember</label>
+        <label for="noDate">kein Datum</label>
+        <label for="from">Von </label>
+        <label for="to"> an </label>
+        <label for="linkToLetter">Zum Brief</label>
+        <label for="linkToLetterNr">Zum Brief Nr.</label>
+        <label for="letterNr">Brief Nr. </label>
+        <label for="letterNotAvailable">Kein Link bzw. Briefnummer verfügbar</label>
+        <label for="dateTo"> bis </label>
+        <label for="date.notAfter">Nicht nach </label>
+        <label for="date.andNotAfter"> und nicht nach </label>
+        <label for="date.notBefore">Nicht vor </label>
+        <label for="date.circa">Etwa </label>
+        <label for="notesStmt">Hinweis</label>
+        <label for="license.header">Lizenzhinweise</label>
+        <label for="license.note.CCBY"> Folgende Herausgeber haben Daten, die dem Suchergebnis
+            zugrunde liegen, unter der Creative-Commons-Lizenz <a href="https://creativecommons.org/licenses/by/4.0">CC-BY 4.0</a> bereitgestellt: </label>
+        <label for="license.note.PD">Für das Suchergebnis wurden Daten aus gemeinfreien Quellen
+            benutzt.</label>
+        <label for="apiNote">Diese Daten können auch unter den Bedingungen der genannten
+            CC-BY-Lizenz als TEI-XML über die <a href="index.xql?id=api&amp;l=de">correspSearch
+                API</a> abgerufen werden:</label>
+        <!-- Index -->
+        <label for="stat.head">Statistik</label>
+        <label for="stat.correspDesc">Briefversionen¹</label>
+        <label for="stat.identifiedPersons">Personen²</label>
+        <label for="stat.identifiedPlaces">Orte²</label>
+        <label for="stat.files">CMIF-Dateien</label>
+        <label for="stat.editions">Publikationen</label>
+        <label for="stat.minDate">Ältester Brief</label>
+        <label for="stat.maxDate">Jüngster Brief</label>
+        <label for="stat.lastUpdate">Letzte Aktualisierung</label>
+        <label for="stat.notes">Hinweise zur Statistik: 1: Ein Brief kann manchmal mehrfach ediert vorliegen, d.h. in mehreren Versionen. 2: Personen und Orte, die mit einer URI aus einer Normdatei oder dem Projekt selbst versehen wurden.
+        </label>
+        <!-- Data index -->
+        <label for="dataIndex.header">Datengrundlage</label>
+        <label for="dataIndex.subheader">Im Webservice verfügbare Briefverzeichnisse</label>
+        <label for="dataIndex.tabnav.1">Nach Publikation</label>
+        <label for="dataIndex.tabnav.2">Nach Verzeichnis</label>
+        <label for="dataIndex.phrase.indexes">Der Webservice wertet derzeit folgende digitale
+            Briefverzeichnisse aus (berücksichtigt aber nur edierte Briefe):</label>
+        <label for="dataIndex.head.editions">Editionen</label>
+        <label for="dataIndex.head.publications">Monographien und Aufsätze mit edierten
+            Briefen</label>
+        <label for="dataIndex.head.publications.complete">Briefe vollständig verzeichnet</label>
+        <label for="dataIndex.head.publications.parts">Briefe nur teilweise verzeichnet</label>
+        <label for="dataIndex.fileLink">CMI-Datei abrufen</label>
+        <label for="dataIndex.publisher">Datenanbieter: </label>
+        <label for="dataIndex.searchLink.publication">Alle Briefe aus dieser Publikation
+            anzeigen</label>
+        <label for="dataIndex.searchLink.cmiFile">Alle Briefe dieses Verzeichnisses anzeigen</label>
+        <label for="dataIndex.aside.header">Ihre Edition ist noch nicht dabei?</label>
+        <label for="dataIndex.aside.phrase">Machen Sie mit und stellen Sie das Briefverzeichnis
+            Ihrer Edition im CMI-Format bereit. <a href="index.xql?id=participate&amp;l=de">Wie das
+                geht erfahren Sie hier.</a>
+        </label>
+        <!-- FAQ -->
+        <label for="faq.header">FAQ</label>
+        <label for="faq.subheader">Häufig gestellte Fragen</label>
+        <!-- Footer -->
+        <label for="footer.about">Über correspSearch</label>
+        <label for="footer.legal">Impressum &amp; Datenschutz</label>
+        <label for="footer.twitter">correspSearch auf Twitter</label>
+        <label for="footer.mastodon">Folge uns in Mastodon</label>
+        <label for="footer.github">correspSearch auf GitHub</label>
+        <label for="footer.citation">Zitierhinweis</label>
+        <!-- ValidationService -->
+        <label for="validation.head">Validieren Sie ihr digitales Briefverzeichnis</label>
+        <label for="validation.form.url">URL der Datei mit correspDesc-Liste</label>
+        <label for="validation.form.submit">Prüfen</label>
+        <label for="validation.valid">Keine Fehler oder Probleme in der Datei gefunden.</label>
+        <label for="validation.personIDs">Absender oder Empfänger ohne Norm-ID gefunden.</label>
+        <label for="validation.personIDs.explication"> Der Webservice sucht anhand von
+            Norm-Identifikationsnummern (nicht anhand der Namen) nach Personen. Wird zu einem
+            Abesender oder Empfänger keine Norm-ID in der correspDesc-Listendatei hinterlegt, kann
+            der Brief im Webservice anhand der Person nicht gefunden werden. In den meisten Fällen,
+            in denen keine Norm-ID hinterlegt wurde, gibt es auch gar keine für die entsprechende
+            Person. Dann können Sie diesen Hinweis ignorieren. Prüfen Sie aber im Zweifelsfall nach,
+            ob doch eine Norm-ID zu dieser Person prinzipiell vorhanden ist. Dieser Webservice
+            unterstützt die Norm-IDs der GND, VIAF, BNF, LC und NDL. </label>
+        <label for="validation.invalid">Es wurden ein oder mehrere Fehler im digitalen
+            Briefverzeichnis gefunden!</label>
+        <label for="validation.headHints">Hinweise</label>
+        <label for="validation.headErrors">Fehler</label>
+        <label for="validation.line">Zeile </label>
+        <label for="validation.column">Spalte </label>
+        <!-- CMIF Creator -->
+        <label for="cc.step1">1: Metadaten</label>
+        <label for="cc.step2">2: Bibliographie</label>
+        <label for="cc.step3">3: Briefe</label>
+        <label for="cc.step4">4: Speichern</label>
+        <label for="cc.startDesc">Mit dem CMIF Creator können Sie ein digitales Briefverzeichnis im
+            „Correspondence Metadata Interchange Format“ (CMIF) ihrer gedruckten Edition anfertigen.
+            Sie haben die Möglichkeit eine neue CMIF-Datei zu beginnen oder eine auf Ihrem Rechner
+            vorhandene Datei weiter zu bearbeiten. </label>
+        <label for="cc.step1Desc">Geben Sie hier Informationen über die CMIF-Datei, die Sie gerade
+            bearbeiten, ein. Insbesondere muss hier der Herausgeber der CMIF-Datei (nicht den der
+            Publikation!) und die Creative-Commons-Lizenz eingetragen werden.</label>
+        <label for="cc.step2Desc">Geben Sie hier die bibliographischen Informationen zu der Edition
+            ein, aus denen Sie Briefe mit ihren Metadaten erfassen möchten. Bei Bedarf können Sie
+            auch mehrere Titel erfassen. Bitte beachten Sie, dass Sie bei einer mehrbändigen Reihe
+            jeden Band einzeln erfassen müssen.</label>
+        <label for="cc.step3Desc">Hier erfassen Sie die Metadatensätze zu den edierten Briefen –
+            also Absender, Schreibort, Datum sowie Adressat, Empfangsort und -datum. Datumsangaben
+            müssen maschinenlesbar notiert werden, für Personen und Orte sollten nach Möglichkeit
+            IDs- aus Normdatein (VIAF, GND, GeoNames) notiert werden. Einmal eingegebene Namen
+            bietet das Formular samt Norm-ID bei der nächsten Eingabe an.</label>
+        <label for="cc.step4Desc">Hier können Sie sich ihr digitales Briefverzeichnis herunterladen
+            und auf Ihrem Rechner speichern. Die eingegeben Daten werden anderweitig nicht
+            gespeichert. Wenn Sie mit der Erstellung ihres Briefverzeichnisses fertig sind, müssen
+            Sie die CMIF-Datei online bereitstellen (am besten auf dem Server Ihrer
+            Forschungseinrichtung o.ä.) und den Link an correspSearch@bbaw.de schicken. Wir
+            registrieren dann das Briefverzeichnis zeitnah im Webservice.</label>
+        <label for="cc.startNew">Neue CMIF-Datei beginnen</label>
+        <label for="cc.restart">Reset</label>
+        <label for="cc.loadJson">Lade bestehende CMIF-Datei</label>
+        <label for="cc.metaData">Metadaten über diese Datei</label>
+        <label for="cc.continue">Fortfahren</label>
+        <label for="cc.title">Titel der CMIF-Datei</label>
+        <label for="cc.editor">Ersteller:in der CMIF-Datei</label>
+        <label for="cc.editorEmail">E-Mail des/der Erstellers:in</label>
+        <label for="cc.publisher">Herausgeber der Datei</label>
+        <label for="cc.publisherWebsite">Website des Herausgebers</label>
+        <label for="cc.urlToXml">URL zur CMIF-Datei</label>
+        <label for="cc.licence">Lizenz</label>
+        <label for="cc.selectLicence">Wählen Sie eine Lizenz</label>
+        <label for="cc.bibInfo">Bibliographische Informationen</label>
+        <label for="cc.bibType">Typ</label>
+        <label for="cc.selectBibType">Wählen Sie einen Typ</label>
+        <label for="cc.bibTypePrint">Gedruckt</label>
+        <label for="cc.bibTitle">Vollständige bibliographische Angabe</label>
+        <label for="cc.addBib">Weiteren Eintrag hinzufügen</label>
+        <label for="cc.letterRecords">Briefdatensätze</label>
+        <label for="cc.addCdItem">Weiteren Datensatz hinzufügen</label>
+        <label for="cc.collapseAll">Alle minimieren</label>
+        <label for="cc.expandAll">Alle öffnen</label>
+        <label for="cc.bibliography">In:</label>
+        <label for="cc.reflink">URL zum Brief</label>
+        <label for="cc.key">Briefnummer</label>
+        <label for="cc.sender">Absender:in</label>
+        <label for="cc.receiver">Empfänger:in</label>
+        <label for="cc.senderAuthority">Norm-ID des/der Absenders:in (aus GND, Viaf etc.)</label>
+        <label for="cc.receiverAuthority">Norm-ID des/der Empfängers:in (aus GND, Viaf etc.)</label>
+        <label for="cc.place">Ort</label>
+        <label for="cc.placeAuthority">Norm-ID des Ortes (aus GeoNames)</label>
+        <label for="cc.dateForm">Datumsformat</label>
+        <label for="cc.selectDateForm">Wählen Sie ein Format</label>
+        <label for="cc.dateWhen">Zeitpunkt</label>
+        <label for="cc.dateNba">Zeitraum (ungefähr)</label>
+        <label for="cc.dateNb">Nicht vor</label>
+        <label for="cc.dateNa">Nicht nach</label>
+        <label for="cc.dateSpan">Zeitspanne (genau)</label>
+        <label for="cc.noDate">Kein Datum</label>
+        <label for="cc.dateText">Datum als Text</label>
+        <label for="cc.dateCert">Wahrscheinlichkeit der Datierung</label>
+        <label for="cc.high">Hoch</label>
+        <label for="cc.low">Gering</label>
+        <label for="cc.none">Keine</label>
+        <label for="cc.from">Von</label>
+        <label for="cc.to">Bis</label>
+        <label for="cc.download">Speichern</label>
+        <label for="cc.uncertain">Unsicher</label>
+        <label for="cc.conjecture">Vermutung</label>
+        <label for="cc.alert.meta">Bitte füllen Sie alle Felder ordentlich aus. Es muss mindestens
+            eine bibliographische Angabe vorhanden sein.</label>
+        <label for="cc.alert.noBib">Noch keine bibliographische Angabe vorhanden.</label>
+        <label for="cc.alert.bibl">Bitte füllen Sie alle erforderlichen Felder aus.</label>
+        <label for="cc.alert.cmif">Bitte füllen Sie alle erforderlichen Felder aus. Es müssen
+            mindestens ein Briefdatensatz und ein bibliographischer Eintrag vorhanden sein.</label>
+        <label for="cc.alert.down">Bitte füllen Sie zunächst das Formular ordentlich aus und klicken
+            auf "Fortfahren", um den Download zu aktivieren.</label>
+        <label for="cc.alert.restart">Möchten Sie wirklich neustarten? Alle bisherigen Eingaben
+            werden hiermit gelöscht.</label>
+        <label for="cc.h1">CMIF Creator</label>
+        <label for="cc.h2">Digitale Briefverzeichnisse erstellen</label>
+        <label for="feedback.forLetterNr">Für Brief Nr.</label>
+        <label for="feedback.from">Aus:</label>
+        <label for="feedback.name">Name:</label>
+        <label for="feedback.mail">E-Mail:</label>
+        <label for="feedback.comment">Kommentar:</label>
+        <label for="feedback.close">Schließen</label>
+        <label for="feedback.send">Nachricht senden</label>
+        <label for="facets.timespan">Zeitraum</label>
+        <label for="facets.showLess">Weniger anzeigen</label>
+        <label for="facets.showMore">Weitere anzeigen</label>
+        <label for="facets.persons">Personen</label>
+        <label for="facets.places">Orte</label>
+        <label for="facets.availability">Verfügbarkeit</label>
+        <label for="facets.displayWeekdays">Wochentage anzeigen</label>
+        <label for="facets.displayOptions">Anzeigeoptionen</label>
+        <label for="search.correspondent">Briefpartner:in</label>
+        <label for="search.place">Orte</label>
+        <label for="search.date">Datum</label>
+        <label for="search.occupation">Beruf</label>
+        <label for="search.chooseARegion">Wählen Sie eine historische Region aus</label>
+        <label for="search.to">bis</label>
+        <label for="search.ignoreRegionTime">Suche nur in den regionspezifischen Zeiträumen</label>
+        <label for="search.drawInstruction">Zeichnen Sie auf der Karte bis zu zwei Regionen mit dem Stift-Werkzeug ein, in denen gesucht werden soll. Bei einer Region werden alle Korrespondenzen aus und in diese Region gesucht. Bei zwei Regionen werden alle Korrespondenzen zwischen diesen Regionen gesucht.</label>
+        <label for="search.or">oder</label>
+        <label for="search.chooseARegion">Wählen Sie eine historische Region aus. Sie können historische Regionen auch mit einer frei gezeichneten Region kombinieren. Bei zwei Regionen werden alle Korrespondenzen zwischen diesen Regionen gesucht.</label>
+        <label for="search.mapDataBy">Datenbasis für historische Regionen:</label>
+        <label for="search.mapHistogisBibl1">Peter Andorfer, Matthias Schlögl,
+        Antonia Dückelmann, Peter Paul Marckhgott-Sanabria, Anna Piechl,
+        HistoGIS,</label>
+        <label for="search.mapHistogisBibl2">Austrian Centre for Digital Humanities and Cultural Heritage / Österreichische Akademie der Wissenschaften 2019-2021.</label>
+        <label for="map.instructions">Zeichnen Sie auf der Karte eine Region mit
+        dem Polygon-Werkzeug ein um alle Korrespondenzen aus und in diese Region
+        zu suchen.</label>
+        <label for="map.histogisInstructions">Geben Sie unten den Namen einer
+        historischen Region ein. Sie können historische Regionen auch mit einer
+        frei gezeichneten Region kombinieren.</label>
+        <label for="map.dateInstructions">Sie können entweder ohne einen
+        spezifischen Zeitraum suchen, oder bis zu zwei Daten angeben, um den
+        Zeitrahmen Ihrer Suche zu bestimmen. Wenn Sie eine historische Region
+        auswählen, wird der Zeitraum dieser Region vorausgewählt. Sie können die
+        Datumsangaben dann in den Datumsfeldern ändern.</label>
+        <label for="map.placeholder.histogis">z.B. Rheinhessen</label>
+        <label for="map.placeholder.date1">z.B. Ostern 1800 oder 25-04-1812</label>
+        <label for="map.placeholder.date2">z.B. Sommer 1805 oder 05-07-1848</label>
+        <label for="search.show">Zeige</label>
+        <label for="search.of">von</label>
+        <label for="search.results">Ergebnissen</label>
+        <label for="search.eg">z.B.</label>
+        <label for="search.loading">Suchergebnisse werden geladen.</label>
+        <label for="search.extendedSearch">Erweiterte Suche</label>
+        <label for="search.cmifFile">CMIF-Datei</label>
+        <label for="search.datasets">Datenset</label>
+        <label for="search.full_text">Volltextsuche</label>
+        <label for="search.full_text.snippet">Suche im Brieftext</label>
+        <label for="search.editorial_notes.snippet">Suche in den Sachanmerkungen</label>
+        <label for="search.abstract.snippet">Suche im Regest</label>
+        <label for="search.startSearch">Suche starten</label>
+        <label for="search.resetSearch">Suche zurücksetzen</label>
+        <label for="search.resetSearchForm">Suchformular zurücksetzen</label>
+        <label for="search.roleNamesSender"> (als Absender:in)</label>
+        <label for="search.roleNamesReceiver"> (als Empfänger:in)</label>
+        <label for="search.rolePlacesSender"> (als Schreibort)</label>
+        <label for="search.rolePlacesReceiver"> (als Empfangsort)</label>
+        <label for="search.resultsWithFullText"> Ergebnissen im Volltext durchsuchbar</label>
+        <label for="search.resultsWithFullText.OutOf"> von </label>
+        <label for="search.allLettersWithFullText">Volltextsuche für insgesamt </label>
+        <label for="search.allLettersWithFullText.available"> Briefe verfügbar</label>
+        <label for="visualisation.box">Visualisierungen [beta]</label>
+        <label for="visualisation.info">Die Visualisierung kann derzeit nur bis zu 20.000 Treffern darstellen. Bitte grenzen Sie das Suchergebnis mit weiteren Filtern ein.</label>
+        <label for="visualisation.barGraph">Zeitspanne</label>
+        <label for="visualisation.map">Karte</label>
+        <label for="visualisation.network">Netzwerk</label>
+        <label for="facetHeadings.dates">Zeitraum</label>
+        <label for="facetHeadings.persons">Personen</label>
+        <label for="facetHeadings.sender">Absender:in</label>
+        <label for="facetHeadings.receiver">Empfänger:in</label>
+        <label for="facetHeadings.places">Orte</label>
+        <label for="facetHeadings.occupations">Berufe [beta]</label>
+        <label for="facetHeadings.sendingPlace">Schreibort</label>
+        <label for="facetHeadings.receivingPlace">Empfangsort</label>
+        <label for="facetHeadings.datasets">Datenset</label>
+        <label for="facetHeadings.writtenLang">Sprache [beta]</label>
+        <label for="facetHeadings.editions">Editionen</label>
+        <label for="facetHeadings.cmif">CMIF-Verzeichnisse</label>
+        <label for="facetHeadings.gender">Geschlecht [beta]</label>
+        <label for="facetHeadings.availability">Verfügbarkeit</label>
+        <label for="facetHeadings.displayOptions">Anzeigeoptionen</label>
+        <label for="facets.gender.male">Männlich</label>
+        <label for="facets.gender.female">Weiblich</label>
+        <label for="facets.gender.diverse">Divers</label>
+        <label for="facets.gender.unknown">Unbekannt</label>
+        <label for="facets.showLess">Weniger anzeigen</label>
+        <label for="facets.showMore">Weitere anzeigen</label>
+        <label for="facets.displayWeekdays">Wochentage</label>
+        <label for="facets.displayExternalRefLinks">Links anhand Personen- und Orts-URIs</label>
+        <label for="facets.displayDateAsText">Nicht-maschinenlesbare Originaldatierung (sofern vorhanden)</label>
+        <label for="facets.displayReceivingDate">Empfangsdatum (sofern vorhanden)</label>
+        <label for="facets.displayCmifInfo">Herausgeber, Lizenz und CMIF-URL</label>
+        <label for="facets.languages.missingData">Für die gefundenen Briefe sind keine entsprechenden Daten verfügbar.</label>
+        <label for="facets.search">Suche...</label>
+        <label for="map.datesFrom">Anfangsdatum</label>
+        <label for="map.datesTo">Enddatum</label>
+        <label for="map.action">Rolle der Region</label>
+        <label for="map.bothRoles">Schreib- oder Empfangsorte</label>
+        <label for="map.goToSearch">Detaillierte Suche nach </label>
+        <label for="map.hits">Treffer für Korrespondenzen mit diesem Ort.</label>
+        <label for="map.histogis">Historische Region</label>
+        <label for="map.mapSearch">Kartensuche</label>
+    </language>
+    <language xml:id="en">
+        <label for="page.h1">correspSearch</label>
+        <label for="page.title.home">correspSearch - Search scholarly editions of letters</label>
+        <label for="page.title.news">correspSearch - News</label>
+        <label for="page.title.about">correspSearch - About this web service</label>
+        <label for="page.title.team">correspSearch - Team</label>
+        <label for="page.title.changelog">correspSearch - Changelog</label>
+        <label for="page.title.citation">correspSearch - Recommended citation</label>
+        <label for="page.title.further-reading">correspSearch - Further reading</label>
+        <label for="page.title.data">correspSearch - The data</label>
+        <label for="page.title.api">correspSearch - API</label>
+        <label for="page.title.participate">correspSearch - Participate</label>
+        <label for="page.title.cmif-check">correspSearch - CMIF Check</label>
+        <label for="page.title.cmif-preview">correspSearch - CMIF Preview</label>
+        <label for="page.title.documentation">correspSearch - Correspondence Metadata
+            Interchange (CMI) format</label>
+        <label for="page.title.manual">correspSearch - Participating - Step by Step
+            Manual</label>
+        <label for="page.title.search">correspSearch - Search</label>
+        <label for="page.title.FAQ">correspSearch - Frequently asked questions</label>
+        <label for="page.title.legal">correspSearch - Legal notice</label>
+        <label for="page.title.beta">correspSearch - Info for the trial version</label>
+        <label for="page.title.cmif-creator">CMIF Creator - Create digital indexes of
+            letters</label>
+        <label for="page.title.salute">quoteSalute - Inspiring salutations for your
+            correspondence</label>
+        <label for="page.title.salute.doc">quoteSalute - Documentation</label>
+        <label for="page.title.map">correspSearch - Map Search</label>
+        <label for="page.meta.cmif-creator">With the CMIF Creator you can quickly and easily create
+            a digital index of letters for your scholarly edition of correspondence.</label>
+        <label for="nav.home">Home</label>
+        <label for="nav.search">Search</label>
+        <label for="nav.mapsearch">Map Search</label>
+        <label for="nav.data">Data</label>
+        <label for="nav.about">About correspSearch</label>
+        <label for="nav.about.main">About this web service</label>
+        <label for="nav.about.videos">Video tutorials</label>
+        <label for="nav.about.citation">Recommended citation</label>
+        <label for="nav.about.further-reading">Further reading</label>
+        
+        <label for="nav.api">API</label>
+        <label for="nav.participate">Participate</label>
+        <label for="nav.participate.manual">Manual</label>
+        <label for="nav.participate.documentation">Documentation</label>
+        <label for="nav.quotesalute.search">Search salutes</label>
+        <label for="nav.quotesalute.doc">Documentation</label>
+        <label for="nav.show">Show</label>
+        <label for="recentlyAdded">Recently added data</label>
+        <label for="search.header">correspSearch - Search result</label>
+        <label for="form.correspondents">Correspondent</label>
+        <label for="form.role">Role</label>
+        <label for="form.allPersons">All persons</label>
+        <label for="form.choosePerson">Choose person</label>
+        <label for="form.senderAndAddressee">Sender or addressee</label>
+        <label for="form.sender">Sender</label>
+        <label for="form.addressee">Addressee</label>
+        <label for="form.insertDate">Enter date</label>
+        <label for="form.date.input.placeholder">e.g. YYYY-MM-DD, 1. January 1800 - 31. December 1802</label>
+        <label for="form.date.input.placeholder2">OR e.g. YYYY-MM-DD, 1. January 1800 - 31. December 1802</label><label for="form.startdate">Start date</label>
+        <label for="form.enddate">End date</label>
+        <label for="form.places">Place</label>
+        <label for="form.places.all">All places</label>
+        <label for="form.placeRole">Specification of place</label>
+        <label for="form.placeRole.place">Sender's or receiver's</label>
+        <label for="form.placeRole.placeSender">Sender's place</label>
+        <label for="form.placeRole.placeAddressee">Receiver's place</label>
+        <label for="form.availability">Availability</label>
+        <label for="form.availability.all">all</label>
+        <label for="form.availability.online">only online</label>
+        <label for="form.availability.print">only printed</label>
+        <label for="form.availability.hybrid">online and printed</label>
+        <label for="form.dataset.PDB18">PDB18</label>
+        <label for="form.dataset.academyProgram">Academies program</label>
+        <label for="form.dataset.norkorr">NorKorr - Norwegian correspondences</label>
+        <label for="form.dataset.all">all</label><label for="form.moreOptions">More options</label>
+        <label for="form.cmiFiles">Index of letters</label>
+        <label for="form.cmiFiles.all">All indexes</label>
+        <label for="form.publications">Scholarly edition / publication</label>
+        <label for="form.publications.all">All scholarly editions and other publications</label>
+        <label for="form.search">Search letters</label>
+        <label for="form.reset">Clear search</label>
+        <label for="resultCount0">No results</label>
+        <label for="resultCount1"> results in 1 publication</label>
+        <label for="resultCount2"> results in </label>
+        <label for="resultCount3"> publications</label>
+        <label for="resultCountOf"> of </label>
+        <label for="result.download">Download result (beta)</label>
+        <label for="result.download.tooltip">The search result can be downloaded as a CSV table.
+            This format can be read by various programs, e.g. Microsoft Excel.</label>
+        <label for="result.joined.tooltip">These letters are marked as identical.</label>
+        <label for="toc">Table of Contents</label>
+        <label for="material.abstract">Abstract</label>
+        <label for="selectionHint">Please select a correspondent (or "All Persons") and, if
+            applicable, further parameters.</label>
+        <label for="monthNames">January,February,March,April,May,June,July,August,September,October,November,December</label>
+        <label for="noDate">No date</label>
+        <label for="from">From </label>
+        <label for="to"> to </label>
+        <label for="linkToLetter">Go to letter</label>
+        <label for="letterNr">Letter No. </label>
+        <label for="linkToLetterNr">Go to Letter No. </label>
+        <label for="letterNotAvailable">Link or Letter No. not available</label>
+        <label for="dateTo"> to </label>
+        <label for="date.notAfter">Not after </label>
+        <label for="date.andNotAfter"> and not after </label>
+        <label for="date.notBefore">Not before </label>
+        <label for="date.circa">Ca. </label>
+        <label for="notesStmt">Note on data</label>
+        <label for="license.header">License Information</label>
+        <label for="license.note.CCBY"> This search result is based on data provided by the
+            following publishers under a Creative Commons license <a href="https://creativecommons.org/licenses/by">CC-BY 4.0</a>: </label>
+        <label for="license.note.PD">Data from sources in the public domain were (also)
+            used.</label>
+        <label for="apiNote">This data can also be retrevied as TEI-XML under the conditions of the
+            named CC-BY license via the <a href="index.xql?id=api&amp;l=en">correspSearch
+            API</a>:</label>
+        <!-- Index -->
+        <label for="stat.head">Statistics</label>
+        <label for="stat.correspDesc">Letter versions¹</label>
+        <!-- changed from 'correspondence descriptions' i guess there was a reason not to write letters? -->
+        <label for="stat.identifiedPersons">Persons²</label>
+        <label for="stat.identifiedPlaces">Places²</label>
+        <label for="stat.files">CMIF files</label>
+        <label for="stat.editions">Publications</label>
+        <label for="stat.minDate">Oldest letter</label>
+        <label for="stat.maxDate">Most recent letter</label>
+        <label for="stat.lastUpdate">Last Update</label>
+        <label for="stat.notes">Notes on statistics: 1: A letter can sometimes be published in multiple editions, i.e. in several versions. 2: Persons and places that have been assigned a URI from a authority file or from the project itself.</label>
+        <!-- Data index -->
+        <label for="dataIndex.header">Data</label>
+        <label for="dataIndex.subheader">The following indexes of letters are available through the
+            web service</label>
+        <label for="dataIndex.phrase.indexes">This web service currently analyses the following
+            indexes of letters (including only edited letters):</label>
+        <!-- dont understand this in german either -->
+        <label for="dataIndex.tabnav.1">By publication</label>
+        <label for="dataIndex.tabnav.2">By CMIF file</label>
+        <label for="dataIndex.head.editions">Scholarly Editions</label>
+        <label for="dataIndex.head.publications">Monographs und articles that include edited
+            letters</label>
+        <label for="dataIndex.head.publications.complete">All letters indexed</label>
+        <label for="dataIndex.head.publications.parts">Only some letters indexed</label>
+        <label for="dataIndex.fileLink">Download CMIF file</label>
+        <label for="dataIndex.publisher">Data provider: </label>
+        <label for="dataIndex.searchLink.publication">Show all letters from this publication</label>
+        <label for="dataIndex.searchLink.cmiFile">Show all letters from this index</label>
+        <label for="dataIndex.aside.header"> Your scholarly edition isn't included yet?</label>
+        <label for="dataIndex.aside.phrase">Participate and put your index of letters online in the
+            CMI format. <a href="index.xql?id=participate&amp;l=en">Find out how it works.</a>
+        </label>
+        <!-- FAQ -->
+        <label for="faq.header">FAQ</label>
+        <label for="faq.subheader">Frequently asked questions</label>
+        <!-- Footer -->
+        <label for="footer.about">About correspSearch</label>
+        <label for="footer.legal">Legal notice &amp; privacy</label>
+        <label for="footer.citation">Recommended Citation</label>
+        <label for="footer.twitter">Follow us on Twitter</label>
+        <label for="footer.mastodon">Follow us on Mastodon</label>
+        <label for="footer.github">correspSearch on GitHub</label>
+        <!-- ValidationService -->
+        <label for="validation.head">Validate your digital letter index</label>
+        <label for="validation.form.url">URL of the file with a correspDesc-List</label>
+        <label for="validation.form.submit">Check</label>
+        <label for="validation.valid">No errors found in your file.</label>
+        <label for="validation.personIDs">sender or addressee without standardized ID found.</label>
+        <label for="validation.personIDs.explication"> This web service searches for persons based
+            on standardized identification numbers (instead of names). Therefore, if the correspDesc
+            file does not contain standardized IDs for the sender or recipient, the respective
+            letter cannot be found by the web service by means of a person. However, in some cases a
+            standardized ID for a certain person does not exist. If so, please ignore this message.
+            Due to its great importance, please always check thoroughly for a standardized ID. This
+            web service supports the standardized id formats of the GND, VIAF, BNF, LC and NDL. </label>
+        <label for="validation.invalid">The validation found one or more problems in your
+            file</label>
+        <label for="validation.headHints">Notices</label>
+        <label for="validation.headErrors">Errors</label>
+        <label for="validation.line">Line </label>
+        <label for="validation.column">Row </label>
+        <!-- CMIF Creator -->
+        <label for="cc.step1">1: Metadata</label>
+        <label for="cc.step2">2: Bibliography</label>
+        <label for="cc.step3">3: Letter records</label>
+        <label for="cc.step4">4: Save</label>
+        <label for="cc.startDesc">With the CMIF Creator you can create a digital index of letters in
+            the "Correspondence Metadata Interchange Format" (CMIF) of your printed scholarly
+            edition. You have the possibility to start a new CMIF file or edit an existing CMIF file
+            on your computer.</label>
+        <label for="cc.step1Desc">Enter information about the CMIF file you are currently editing.
+            In particular, the publisher of the CMIF file (not that of the publication!) and the
+            Creative Commons license must be entered here.</label>
+        <label for="cc.step2Desc">Enter the bibliographic information on the scholarly edition from
+            which you want to enter letters with their metadata. If required, you can also add
+            multiple titles. Please note that in the case of a multi-volume series, you must record
+            each volume individually.</label>
+        <label for="cc.step3Desc">Here you enter the metadata records for the editions of the
+            letters — in other words, the sender, the place of writing, date, as well as the
+            addressee, place and date of receipt. Date information must be recorded in
+            machine-readable form, for persons and places IDs from authority files (VIAF, GND,
+            GeoNames etc.) should be noted if possible. Once you have entered the name and ID, the
+            form offers you these information for the next times.</label>
+        <label for="cc.step4Desc">Here you can download your digital index of letters and save it on
+            your computer. The entered data will not be saved elsewhere. Once you have finished
+            compiling your index of letters, you will need to make the CMIF file available online
+            (preferably on the server of your research institution or similar) and send the link to
+            correspSearch@bbaw.de We will then promptly register the list of letters in our web
+            service.</label>
+        <label for="cc.startNew">Start new CMIF file</label>
+        <label for="cc.restart">Reset</label>
+        <label for="cc.loadJson">Load existing CMIF file</label>
+        <label for="cc.metaData">Metadata about this file</label>
+        <label for="cc.continue">Continue</label>
+        <label for="cc.title">Title of the CMIF file</label>
+        <label for="cc.editor">Editor of this file</label>
+        <label for="cc.editorEmail">Email of Editor</label>
+        <label for="cc.publisher">Publisher of this file</label>
+        <label for="cc.publisherWebsite">Website of publisher</label>
+        <label for="cc.urlToXml">URL to CMIF file</label>
+        <label for="cc.licence">Licence</label>
+        <label for="cc.selectLicence">Choose licence</label>
+        <label for="cc.bibInfo">Bibliography</label>
+        <label for="cc.bibType">Type</label>
+        <label for="cc.selectBibType">Choose type</label>
+        <label for="cc.bibTypePrint">Print</label>
+        <label for="cc.bibTitle">Full bibliographical statement</label>
+        <label for="cc.addBib">Add bibliography item</label>
+        <label for="cc.letterRecords">Letter records</label>
+        <label for="cc.addCdItem">Add letter record</label>
+        <label for="cc.collapseAll">Collapse all</label>
+        <label for="cc.expandAll">Expand all</label>
+        <label for="cc.bibliography">In:</label>
+        <label for="cc.reflink">URL to the letter</label>
+        <label for="cc.key">Letter no.</label>
+        <label for="cc.sender">Sender</label>
+        <label for="cc.receiver">Receiver</label>
+        <label for="cc.senderAuthority">Sender ID from authority file</label>
+        <label for="cc.receiverAuthority">Receiver ID from authority file</label>
+        <label for="cc.place">Place</label>
+        <label for="cc.placeAuthority">ID from authority file</label>
+        <label for="cc.dateForm">Form of date</label>
+        <label for="cc.selectDateForm">Choose form of date</label>
+        <label for="cc.dateWhen">Date (when)</label>
+        <label for="cc.dateNba">Timespan (not before/after)</label>
+        <label for="cc.dateNb">Not before</label>
+        <label for="cc.dateNa">Not after</label>
+        <label for="cc.dateSpan">Timespan (from/to)</label>
+        <label for="cc.noDate">No date</label>
+        <label for="cc.dateText">Date as text</label>
+        <label for="cc.dateCert">Certainty of date</label>
+        <label for="cc.high">High</label>
+        <label for="cc.low">Low</label>
+        <label for="cc.none">Not applicable</label>
+        <label for="cc.from">From</label>
+        <label for="cc.to">To</label>
+        <label for="cc.download">Save</label>
+        <label for="cc.uncertain">Uncertain</label>
+        <label for="cc.conjecture">Conjecture</label>
+        <label for="cc.addSender">Add Sender</label>
+        <label for="cc.addReceiver">Add Receiver</label>
+        <label for="cc.alert.meta">Please fill out all fields correctly. You need to add at least
+            one bibliographical item.</label>
+        <label for="cc.alert.noBib">No bibliography yet.</label>
+        <label for="cc.alert.bibl">Pleace fill out all required fields correctly.</label>
+        <label for="cc.alert.cmif">Please fill out all fields correctly. You need to add at least
+            one letter record and one bibliographical item.</label>
+        <label for="cc.alert.down">Please fill out and click "Continue" to enable Download.</label>
+        <label for="cc.alert.restart">Do you really want to reset the form? All unsaved data will be
+            lost!</label>
+        <label for="cc.h1">CMIF Creator</label>
+        <label for="cc.h2">Creating a digital index of letters</label>
+        <label for="feedback.forLetterNr">For Letter Nr.</label>
+        <label for="feedback.from">From:</label>
+        <label for="feedback.name">Name:</label>
+        <label for="feedback.mail">EMail:</label>
+        <label for="feedback.comment">Comment:</label>
+        <label for="feedback.close">Close</label>
+        <label for="feedback.send">Send Message</label>
+        <label for="facets.timespan">Timespan</label>
+        <label for="facets.showLess">Show less</label>
+        <label for="facets.showMore">Shore more</label>
+        <label for="facets.persons">Persons</label>
+        <label for="facets.places">Places</label>
+        <label for="facets.availability">Availability</label>
+        <label for="facets.displayWeekdays">Display weekdays</label>
+        <label for="facets.displayOptions">Display Options</label>
+        <label for="search.correspondent">Correspondent</label>
+        <label for="search.place">Place</label>
+        <label for="search.date">Date</label>
+        <label for="search.cmif">CMIF File</label>
+        <label for="search.occupation">Occupation</label>
+        <label for="search.chooseARegionSmall">Choose a historical region:</label>
+        <label for="search.to">to</label>
+        <label for="search.ignoreRegionTime">Search only in region-specific timespans</label>
+        <label for="search.drawInstruction">Draw up to two regions on the map using the Drawing tool to include them into the search. One region present, all correspondences from and to the region are being displayed. With two regions, only correspondences inbetween them are being displayed.</label>
+        <label for="search.or">oder</label>
+        <label for="search.chooseARegion">Choose a historical Region. You may also combine a historical region with a freely drawn region. With two regions, only correspondences inbetween them are being displayed.</label>
+        <label for="search.mapDataBy">Basis for data on historical regions:</label>
+        <label for="search.mapHistogisBibl1">Peter Andorfer, Matthias Schlögl,
+        Antonia Dückelmann, Peter Paul Marckhgott-Sanabria, Anna Piechl,
+        HistoGIS,</label>
+        <label for="search.mapHistogisBibl2">Austrian Centre for Digital Humanities and Cultural Heritage / Österreichische Akademie der Wissenschaften 2019-2021.</label>
+        <label for="map.instructions">Draw a region on the map using the Drawing
+        tool to serach for all correspondences from and to the region.</label>
+        <label for="map.placeholder.histogis">e.g. Rheinhessen</label>
+        <label for="map.placeholder.date1">e.g. Eastern 1800 or 25-04-1812</label>
+        <label for="map.placeholder.date2">e.g. Summer 1805 or 05-07-1848</label>
+        <label for="map.histogisInstructions">Enter the name of a historical region. You may
+        also combine a historical region with a freely drawn region.</label>
+        <label for="map.dateInstructions">You can either search without any specific
+        timespan, or enter up to two dates to specify a timespan for your
+        search. If you choose a historical region, the timespan of that region
+        will be pre-selected, but remains editable in the date fields.</label>
+        <label for="search.show">Show</label>
+        <label for="search.of">of</label>
+        <label for="search.results">Results</label>
+        <label for="search.eg">e.g.</label>
+        <label for="search.loading">Loading search results.</label>
+        <label for="search.extendedSearch">Extended Search</label>
+        <label for="search.cmifFile">CMIF-File</label>
+        <label for="search.datasets">Dataset</label>
+        <label for="search.full_text">Search in full-text</label>
+        <label for="search.full_text.snippet">Search in letter</label>
+        <label for="search.editorial_notes.snippet">Suche in den Sachanmerkungen</label>
+        <label for="search.abstract.snippet">Suche im Regest</label>
+        <label for="search.editorial_notes">Suche in den Sachanmerkungen</label>
+        <label for="search.abstract">Suche im Regest</label>
+        <label for="search.startSearch">Search</label>
+        <label for="search.resetSearch">Reset Search</label>
+        <label for="search.resetSearchForm">Reset Searchform</label>
+        <label for="search.roleNamesSender"> (as Sender)</label>
+        <label for="search.roleNamesReceiver"> (as Receiver)</label>
+        <label for="search.rolePlacesSender"> (as Writing Location)</label>
+        <label for="search.rolePlacesReceiver"> (as Receiving Location)</label>
+        <label for="search.resultsWithFullText"> results are available in full-text</label>
+        <label for="search.resultsWithFullText.OutOf"> out of </label>
+        <label for="search.allLettersWithFullText">Full-text search available for </label>
+        <label for="search.allLettersWithFullText.available"> letters</label>
+        <label for="visualisation.box">Visualisations [beta]</label>
+        <label for="visualisation.info">Currently the visualisations can only depict up to 20,000 results. Please narrow down you search by adding further filters.</label>
+        <label for="visualisation.barGraph">Timeline</label>
+        <label for="visualisation.map">Map</label>
+        <label for="visualisation.network">Network</label>
+        <label for="facetHeadings.dates">Timespan</label>
+        <label for="facetHeadings.persons">Persons</label>
+        <label for="facetHeadings.sender">Sender</label>
+        <label for="facetHeadings.receiver">Receiver</label>
+        <label for="facetHeadings.occupations">Occupations [beta]</label>
+        <label for="facetHeadings.places">Places</label>
+        <label for="facetHeadings.sendingPlace">Writing Location</label>
+        <label for="facetHeadings.receivingPlace">Receiving Location</label>
+        <label for="facetHeadings.datasets">Dataset</label>
+        <label for="facetHeadings.writtenLang">Language [beta]</label>
+        <label for="facetHeadings.editions">Editions</label>
+        <label for="facetHeadings.cmif">CMIF Files</label>
+        <label for="facetHeadings.gender">Gender [beta]</label>
+        <label for="facetHeadings.availability">Availability</label>
+        <label for="facetHeadings.displayOptions">Display Options</label>
+        <label for="facets.showLess">show less</label>
+        <label for="facets.showMore">show more</label>
+        <label for="facets.displayWeekdays">Weekdays</label>
+        <label for="facets.displayExternalRefLinks">Links based on person and location URIs</label>
+        <label for="facets.displayDateAsText">Non-machine readable original date (if available)</label>
+        <label for="facets.displayReceivingDate">Date of Receipt (if available)</label>
+        <label for="facets.displayCmifInfo">Publisher, License and CMIF-URL</label>
+        <label for="facets.gender.male">Male</label>
+        <label for="facets.gender.female">Female</label>
+        <label for="facets.gender.diverse">Diverse</label>
+        <label for="facets.gender.unknown">Unknown</label>
+        <label for="facets.languages.missingData">There is no relevant data available for the letters found.</label>
+        <label for="facets.search">Search...</label>
+        <label for="map.datesFrom">Beginning date</label>
+        <label for="map.datesTo">Enddate</label>
+        <label for="map.action">Role of the region</label>
+        <label for="map.bothRoles">Writing and Receiving Locations</label>
+        <label for="map.goToSearch">Detailed search on </label>
+        <label for="map.hits">Hits for correspondences with this location.</label>
+        <label for="map.histogis">Historical Region</label>
+        <label for="map.mapSearch">Map Search</label>
+    </language>
+</labels>

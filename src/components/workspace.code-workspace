@@ -1,0 +1,26 @@
+{
+	"folders": [
+    {
+      "path": "../.."
+    },
+    {
+      "path": "../../../corpuscoranicum"
+    },
+    {
+      "path": "../../../CMIF-Creator"
+    },
+    {
+      "path": "../../../pyLessons"
+    },
+    {
+      "path": "../../../../../../var/www/html"
+    },
+    {
+      "path": "../../../csWeb"
+    },
+    {
+      "path": "../../../diss"
+    }
+  ],
+  "settings": {}
+}
